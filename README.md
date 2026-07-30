@@ -1,6 +1,6 @@
 # cre-sentinel-debt-surveillance
-Building data and AI systems for real estate credit risk, BIM, spatial information and building operations.
-markdown# CRE SENTINEL: COMMERCIAL REAL ESTATE DEBT PORTFOLIO SURVEILLANCE SYSTEM
+Building data and AI systems for real estate credit risk.
+# CRE SENTINEL: COMMERCIAL REAL ESTATE DEBT PORTFOLIO SURVEILLANCE SYSTEM
 **Project Code:** VLH-PRJ-01 (CRE Sentinel)  
 **Developer Track:** Track 2 (Financial Forecasting & Risk Simulations)  
 **System Class:** Commercial Real Estate Debt Early-Warning & Portfolio Surveillance Architecture  
