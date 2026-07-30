@@ -1,0 +1,20 @@
+[
+  "interest_rate_pct",
+  "ltv",
+  "dscr",
+  "debt_yield",
+  "interest_coverage",
+  "occupancy_pct",
+  "loan_age_years",
+  "years_to_maturity",
+  "property_type_Industrial",
+  "property_type_Mixed-Use",
+  "property_type_Multifamily",
+  "property_type_Office",
+  "property_type_Retail",
+  "region_Northeast",
+  "region_Southeast",
+  "region_Southwest",
+  "region_West",
+  "rate_type_Floating"
+]
